@@ -36,4 +36,10 @@ int print_sign(int s);
  *Return: integer or abs value of int
  */
 int _abs(int);
+/**
+ *print_last_digit - prints the last digit
+ *Return: last digit of integer
+ */
+int _print_last_digit(int);
+
 #endif
