@@ -12,6 +12,7 @@ return;
 for (a = 0; a <= n; a++)
 {
 for (b = 0; b <= n; b++)
+{
 c = a * b;
 if (b == 0)
 _putchar('0' + c);
