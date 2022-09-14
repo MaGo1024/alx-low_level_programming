@@ -40,6 +40,6 @@ int _abs(int);
  *print_last_digit - prints the last digit
  *Return: last digit of integer
  */
-int _print_last_digit(int);
+int print_last_digit(int);
 
 #endif
