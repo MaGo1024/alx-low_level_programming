@@ -18,7 +18,7 @@ if (b == 0)
 _putchar('0' + c);
 else
 {
-_putchar(' ');
+_putchar(',');
 _putchar(' ');
 if (c <= 9)
 {
