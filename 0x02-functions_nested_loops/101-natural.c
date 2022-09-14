@@ -15,6 +15,6 @@ if (b % 3 == 0 || b % 5 == 0)
 c += b;
 }
 }
-_printf("%d\n", b);
+printf("%d\n", c);
 return (0);
 }
