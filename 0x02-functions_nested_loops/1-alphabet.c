@@ -1,17 +1,15 @@
-#include <main.h>
+#include "main.h"
 /**
- *main - Entry point
+ *print_alphabet - prints alphabet
  *
  *Return: Always 0 (Success)
  */
-
 void print_alphabet(void)
 {
-char i;
-for (i = 'a'; i <= 'z'; i++)
+char c;
+for (c = 'a'; c <= 'z'; c++)
 {
-_putchar(i);
+_putchar(c);
 }
 _putchar('\n');
-return (0);
 }
