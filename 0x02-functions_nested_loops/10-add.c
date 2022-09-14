@@ -9,5 +9,5 @@
  */
 int add(int b, int c)
 {
-return (a + b);
+return (b + c);
 }
