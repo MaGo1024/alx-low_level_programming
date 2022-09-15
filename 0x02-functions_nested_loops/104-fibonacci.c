@@ -22,7 +22,7 @@ a = i % 1000;
 i = i / 1000;
 b = j % 1000;
 j = j / 1000;
-while (count <= 98)
+while (counter <= 98)
 {
 result = ((a + b) / 1000);
 c = (a + b) -result * 1000;
