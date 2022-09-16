@@ -2,9 +2,11 @@
 /**
 * more_numbers - print 10 times the numbers, from 0 to 14
 */
+
 void more_numbers(void)
 {
 int i, j = 0;
+
 while (i <= 9)
 {
 while (j <= 14)
