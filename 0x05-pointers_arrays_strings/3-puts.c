@@ -6,7 +6,7 @@
  *@str: pointer value of character
  * Return: string.
  */
-int _puts(char *str)
+void _puts(char *str)
 {
-return (puts(str));
+puts(str);
 }
