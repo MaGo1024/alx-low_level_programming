@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdlib.h>
+#include <stdio.h>
 /**
  * malloc_checked - This provides a safe way of mallocing
  * @b: This is the number of bytes to be malloced
