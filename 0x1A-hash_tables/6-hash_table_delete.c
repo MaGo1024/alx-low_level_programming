@@ -14,7 +14,7 @@ for (i = 0; i < ht->size; i++)
 {
 if (ht->array[i] != NULL)
 {
-node = ht->array[!];
+node = ht->array[i];
 while (node != NULL)
 {
 tmp = node->next;
